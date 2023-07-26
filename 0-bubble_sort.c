@@ -19,7 +19,7 @@ void swap_integers(int *a, int *b)
 /**
  * bubble_sort - bubble sort function
  * @array: input array pointer
- * @size: size
+ * @size: size of array
  */
 
 void bubble_sort(int *array, size_t size)
