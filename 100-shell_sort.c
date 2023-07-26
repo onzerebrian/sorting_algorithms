@@ -4,7 +4,7 @@
 /**
  * shell_sort - function
  * @array: array
- * @size: size
+ * @size: size of array
  */
 void shell_sort(int *array, size_t size)
 {
