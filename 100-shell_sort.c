@@ -2,7 +2,7 @@
 
 
 /**
- * shell_sort - function
+ * shell_sort - function using Knuth sequence
  * @array: array
  * @size: size of array
  */
